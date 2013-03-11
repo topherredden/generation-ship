@@ -9,7 +9,12 @@ generation-ship
 - F-Drives can only operate for a certain duration before they must exit fold space in order to bleed off accumulated fold energies.
 
 #### J-Drive Charge Times
-Hull Code       Charge Time
+| Hull Code     | Charge Time   |
+| ------------- | ------------- |
+| col 3 is      | right-aligned |
+| col 2 is      | centered      |
+| zebra stripes | are neat      |
+      
 1               0:30
 2               1:30
 3               2:15
