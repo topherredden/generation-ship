@@ -1,14 +1,14 @@
 generation-ship
 ===============
 
-# J-Drive Changes
+## J-Drive Changes
 - J-Drive is called a 'Fold Drive'.
 - F-Drives now take up twice the tonnage of J-Drives.
 - F-Drives have no fuel cost to activate but instead have a fold capacitor to handle the immense exotic energy needed to open a fold space vortex.
 - F-Drive speed is based on Jump rating. Jump-4 means you can travel 4 parsecs in 1 day. This also means you can travel 2 parsecs in 12 hours.
 - F-Drives can only operate for a certain duration before they must exit fold space in order to bleed off accumulated fold energies.
 
-## J-Drive Charge Times
+#### J-Drive Charge Times
 Hull Code       Charge Time
 1               0:30
 2               1:30
