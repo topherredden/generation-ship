@@ -1,4 +1,5 @@
-generation-ship
+generation-ship 
+House Rules
 ===============
 
 ## J-Drive Changes
@@ -7,6 +8,7 @@ generation-ship
 - F-Drives have no fuel cost to activate but instead have a fold capacitor to handle the immense exotic energy needed to open a fold space vortex.
 - F-Drive speed is based on Jump rating. Jump-4 means you can travel 4 parsecs in 1 day. This also means you can travel 2 parsecs in 12 hours.
 - F-Drives can only operate for a certain duration before they must exit fold space in order to bleed off accumulated fold energies.
+- While charging or operating F-Drives the reactor consumes at 4x the normal rate.
 
 #### J-Drive Charge Times
 | Hull Code     | Charge Time   |
