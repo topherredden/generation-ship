@@ -10,7 +10,7 @@ generation-ship
 
 #### J-Drive Charge Times
 | Hull Code     | Charge Time   |
-| ------------- | ------------- |
+| ------------- | -------------:|
 | 1 | 0:30 |
 | 2 | 1:30 |
 | 3 | 2:15 |
