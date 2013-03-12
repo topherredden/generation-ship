@@ -1,15 +1,15 @@
 House Rules
 ===============
 
-## J-Drive Changes
+## FTL Mechanics
 - J-Drive is called a 'Fold Drive' to differentiate it.
 - F-Drives now take up twice the tonnage of J-Drives.
 - F-Drives have no fuel cost to activate but instead have a fold capacitor to handle the immense exotic energy needed to open a fold space vortex.
 - F-Drive speed is based on Jump rating. Jump-4 means you can travel up to 4 parsecs in 1 week. You can travel 2 parsecs in 1/2 a week and so on. Ships must exit fold space after a week in order to bleed off fold energy accumulated during travel.
 - While charging or operating F-Drives the reactor consumes at 4x the normal rate.
 
-#### J-Drive Charge Times
-| Hull Code     | Charge Time   |
+#### F-Drive Charging Time
+| Hull Code     | Time   |
 | ------------- | -------------:|
 | 1 | 0:30 |
 | 2 | 1:30 |
