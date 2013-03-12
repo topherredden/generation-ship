@@ -9,7 +9,7 @@ House Rules
 - While charging or operating F-Drives the reactor consumes fuel at 4x the normal rate.
 
 #### F-Drive Charging Time
-| Hull Code     | Time   |
+| Hull Code     | Time (hh:mm)  |
 | ------------- | -------------:|
 | 1 | 0:30 |
 | 2 | 1:30 |
